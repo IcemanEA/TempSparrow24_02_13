@@ -12,6 +12,7 @@
 		482DE2502B7B543B0062C309 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 482DE24F2B7B543B0062C309 /* ViewController.swift */; };
 		482DE2552B7B543D0062C309 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 482DE2542B7B543D0062C309 /* Assets.xcassets */; };
 		482DE2582B7B543D0062C309 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 482DE2562B7B543D0062C309 /* LaunchScreen.storyboard */; };
+		482DE2602B7BAD0A0062C309 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 482DE25F2B7BAD0A0062C309 /* PopupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		482DE2542B7B543D0062C309 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		482DE2572B7B543D0062C309 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		482DE2592B7B543D0062C309 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		482DE25F2B7BAD0A0062C309 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				482DE24B2B7B543B0062C309 /* AppDelegate.swift */,
 				482DE24D2B7B543B0062C309 /* SceneDelegate.swift */,
 				482DE24F2B7B543B0062C309 /* ViewController.swift */,
+				482DE25F2B7BAD0A0062C309 /* PopupViewController.swift */,
 				482DE2542B7B543D0062C309 /* Assets.xcassets */,
 				482DE2562B7B543D0062C309 /* LaunchScreen.storyboard */,
 				482DE2592B7B543D0062C309 /* Info.plist */,
@@ -137,6 +140,7 @@
 				482DE2502B7B543B0062C309 /* ViewController.swift in Sources */,
 				482DE24C2B7B543B0062C309 /* AppDelegate.swift in Sources */,
 				482DE24E2B7B543B0062C309 /* SceneDelegate.swift in Sources */,
+				482DE2602B7BAD0A0062C309 /* PopupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
